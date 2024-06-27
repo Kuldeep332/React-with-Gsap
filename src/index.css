@@ -21,3 +21,10 @@ img:nth-child(2){
   position: absolute;
   
 }
+#box{
+  width: 200px;
+  height: 200px;
+  border: 30px;
+  margin-top: 20px;
+  background-color: aqua;
+}
